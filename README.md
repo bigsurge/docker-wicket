@@ -13,7 +13,7 @@ This project is based on the work of [docker index](https://github.com/ekristen/
 # Quick Start
 
 ```
-go get github.com/tg123/docker-wicket.git
+go get github.com/tg123/docker-wicket
 cd $GOPATH/src/github.com/tg123/docker-wicket/example/all-in-one/
 
 docker-compose up
